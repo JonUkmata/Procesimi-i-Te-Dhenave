@@ -1,0 +1,22 @@
+# Build results
+AI.backend/bin/
+AI.backend/obj/
+
+# Node modules
+ai.frontend/node_modules/
+ai.frontend/package-lock.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
